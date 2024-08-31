@@ -1,6 +1,7 @@
 name: compresspro
 description: Demonstrates how to use the video_compress plugin.
 publish_to: 'none'
+version: 1.0.0+1
 
 
 environment:
