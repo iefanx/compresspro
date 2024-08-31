@@ -1,7 +1,3 @@
-# video_compress_v2_example
-
-Demonstrates how to use the video_compress_v2 plugin.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
